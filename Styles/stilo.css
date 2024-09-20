@@ -1,0 +1,14 @@
+.text_color{
+color: #5966f3;
+}
+.text_style{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif; /* Asegúrate de tener la fuente Montserrat disponible /
+    font-weight: 600; / 600 generalmente corresponde a semi-negrita (semi bold) */
+    /*padding: 10px;*/
+    word-break: break-all;/*hace que colapse el texto en el contenedor
+    /*overflow: hidden;*/
+}
+*{
+    background-color: #e6e6e6;
+}

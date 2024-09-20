@@ -1,0 +1,56 @@
+p{/* los generales arriba*/
+    margin: 0px;
+}
+.card_style{
+    border: 5px solid #403753;
+    width: 213px;
+    height: 310px;
+    background-color: #ba6f5b;
+}
+.header_style{
+    border: 2px outset #795550;
+    text-shadow: -1px -1px rgba(0, 0, 0, .2);
+    margin: 5px;
+    padding: 2px;
+}
+.header_text_style{
+    font-size: 13px;
+    font-family: 'Matrix', sans-serif;
+    font-weight: bold;
+    }
+.header_img_style{
+    width: 16px;
+    height: fit-content;
+    }
+.stars_style{
+    width: 147px;
+    height: fit-content;
+    margin-right: 20px;
+    }
+.kevin_style{
+    width: 158px;
+    height: fit-content;
+    border: 2px outset #403753;
+    text-shadow: -1px -1px rgba(0, 0, 0, .2);
+    filter: drop-shadow(0 0 0.13rem black);
+}
+.general_text_style{
+    font-size: 5px;
+    margin-right: 20px;
+}
+.box_style{
+    background-color: #d4af97;
+    margin: 5px;
+    padding: 0px 3px;
+    border: 3px solid #a94b42;
+}
+.type_style{
+    font-size: 8px;
+    font-family: 'Matrix', sans-serif;
+    font-weight: bold;
+}
+.desc_style{
+    font-size: 7px;
+    font-weight: lighter;
+    margin-bottom: 13px;
+}
